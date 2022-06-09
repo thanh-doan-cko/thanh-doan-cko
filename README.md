@@ -26,7 +26,7 @@ I am interested in the fundamentals to craft the great life, engineering and tec
 </p>
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/h408T6Y5GfmXBKW62l"/>
+<iframe src="https://giphy.com/embed/gf675azxNAz2zDQ1vD" width="480" height="425" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD"></a></p>
   
 ### ✨ Quick Facts
 
