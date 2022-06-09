@@ -26,7 +26,7 @@ I am interested in the fundamentals to craft the great life, engineering and tec
 </p>
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/h408T6Y5GfmXBKW62l">via GIPHY</a></p>" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/h408T6Y5GfmXBKW62l"/>
   
 ### ✨ Quick Facts
 
