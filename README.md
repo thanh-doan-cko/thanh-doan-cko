@@ -25,6 +25,7 @@ Things I am currently experimenting with : AWS , DDD, Python, Coding competitive
 I am interested in the fundamentals to craft the great life, engineering and technology ❤️.
 </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
   
 ### ✨ Quick Facts
 
